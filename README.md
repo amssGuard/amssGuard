@@ -37,10 +37,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-<div align="left">
-  <iframe src="https://giphy.com/embed/4On0BLjQuL8YM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/images-peanut-dunham-4On0BLjQuL8YM">via GIPHY</a></p>
-</div>
 <!--<div align="left">
   <img src="https://img.shields.io/static/v1?message=anoshkekal24@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
