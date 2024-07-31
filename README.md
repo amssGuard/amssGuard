@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anoshkekal
+- 👋 Hi, I’m @amssGuard
 - 👀 I’m interested in you and data structures.
 - 🌱 I’m currently learning: many things at once.
 - 💞️ I’m looking to collaborate on:
