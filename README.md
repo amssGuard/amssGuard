@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-![snake gif](https://github.com/anoshkekal/anoshkekal/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/anoshkekal/anoshkekal/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--<div align="left">
   <img src="https://img.shields.io/static/v1?message=anoshkekal24@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
