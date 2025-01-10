@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amssGuard&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
     </div>
     
-    <!-- Right Image (GIF) -->
+  <!-- Right Image (GIF) -->
   <div style="margin-left: 20px;">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w0amx5dmp5b2tuMTRjejBjMWtnY2I5NDk3cDdmaWN6dnJqeDlwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSZw9lGKMwWMU/giphy.gif" alt="third image" />
     </div>
