@@ -8,6 +8,7 @@
 anoshkekal/anoshkekal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhwYWMyYTBsYjZveWkxYXd0NnYzNWFpeWtudm85MXQ1OG1iMm9xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD5w4Vj4apo0CboDAf/giphy.gif">
 
 <h2 align="left">Hi 👋! My name is amssGuard</h2>
 
