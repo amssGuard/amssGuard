@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
   </div>
 
   <div align="left">
-    <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIwYzE3b2RrdXNoYzM5Z3UyeWtiZmdscGg1YTRiMHYyMTl1bDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4On0BLjQuL8YM/giphy.gif"  />
+    <iframe src="https://giphy.com/embed/LD5w4Vj4apo0CboDAf" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gaming-resident-evil-village-lady-dimitrescu-LD5w4Vj4apo0CboDAf">via GIPHY</a></p>
+    
   </div>
 </div>
 
