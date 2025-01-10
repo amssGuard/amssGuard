@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
     </div>
     
    
-  <div style="margin-left: 20px;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w0amx5dmp5b2tuMTRjejBjMWtnY2I5NDk3cDdmaWN6dnJqeDlwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSZw9lGKMwWMU/giphy.gif" alt="third image" />
+    <div style="margin-left: 20px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w0amx5dmp5b2tuMTRjejBjMWtnY2I5NDk3cDdmaWN6dnJqeDlwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSZw9lGKMwWMU/giphy.gif" alt="third image" />
     </div>
   </div>
 </div>
