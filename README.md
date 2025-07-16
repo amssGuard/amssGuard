@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
- Uncomment if you wish to display this in future
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/anoshkekal/anoshkekal/output/github-contribution-grid-snake.svg" alt="GitHub snake contribution graph" />
 </div>
