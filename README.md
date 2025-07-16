@@ -39,33 +39,40 @@ You can click the Preview link to take a look at your changes.
 
 
 ###
-___
+### 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="cpp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
 </div>
 
-###
-<!--![snake gif](https://github.com/anoshkekal/anoshkekal/blob/output/github-contribution-grid-snake.svg)-->
+---
 
-<!--<div align="left">
-  <img src="https://img.shields.io/static/v1?message=anoshkekal24@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>-->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amssGuard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amssGuard&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top languages" />
+</div>
+
+---
+
+ Uncomment if you wish to display this in future
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anoshkekal/anoshkekal/output/github-contribution-grid-snake.svg" alt="GitHub snake contribution graph" />
+</div>
 
 
-<!--<br clear="both">
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/anoshkekal/anoshkekal/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/anoshkekal/anoshkekal/output/snake.svg" alt="Snake animation" />
 
 ###
 
