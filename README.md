@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
       </td>
       <td style="padding-left: 20px;">
         <!-- Right Image (GIF) -->
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w0amx5dmp5b2tuMTRjejBjMWtnY2I5NDk3cDdmaWN6dnJqeDlwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSZw9lGKMwWMU/giphy.gif" alt="third image" />
+       <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w0amx5dmp5b2tuMTRjejBjMWtnY2I5NDk3cDdmaWN6dnJqeDlwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSZw9lGKMwWMU/giphy.gif" alt="third image" />-->
       </td>
     </tr>
   </table>
