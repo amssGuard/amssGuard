@@ -70,9 +70,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<br clear="both">
+<!--<br clear="both">
 
-<img src="https://raw.githubusercontent.com/anoshkekal/anoshkekal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anoshkekal/anoshkekal/output/snake.svg" alt="Snake animation" />-->
 
 ###
 
