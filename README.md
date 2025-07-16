@@ -13,23 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Hi 👋! My name is amssGuard</h2>
 
 ###
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <!-- Left Column with Two Images -->
-        <img src="https://github-readme-stats.vercel.app/api?username=amssGuard&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-        <br>
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=amssGuard&theme=radical" height="180"/>
-      </td>
-      <td style="padding-left: 20px;">
-        <!-- Right Image (GIF) -->
-       <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w0amx5dmp5b2tuMTRjejBjMWtnY2I5NDk3cDdmaWN6dnJqeDlwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSZw9lGKMwWMU/giphy.gif" alt="third image" />-->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amssGuard&layout=compact&langs_count=6&theme=radical" height="180" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 
 
