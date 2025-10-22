@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amssGuard&show_icons=false&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amssGuard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amssGuard&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top languages" />
 </div>
 
