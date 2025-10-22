@@ -7,7 +7,7 @@
        width="100%"
        height="auto"
        style="position:absolute; top:0; left:0; z-index:-1; opacity:0.25; object-fit:cover; mix-blend-mode:screen;">
-</div>
+
 
 <br><br>
 
@@ -60,3 +60,4 @@
 <p align="center" style="font-size:14px; color:#ff00ff; text-shadow:0 0 5px #00ffff;">
   <i>“Code under neon lights. Dream in binary.”</i>
 </p>
+</div>
