@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBlYTRycDBpbnF0NWR3NnJqNmdlbmtuNnI0MXExZDh4N3VmMWh6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ao9DUiTKH60XS/giphy.gif"
        alt="cyberpunk background"
-       width="100%"
+       width="40%"
        height="auto"
        style="position:absolute; top:0; left:0; z-index:-1; opacity:0.25; object-fit:cover; mix-blend-mode:screen;">
 
@@ -51,13 +51,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anoshkekal/anoshkekal/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub snake contribution graph" />
-</div>
+
 
 ---
 
-<p align="center" style="font-size:14px; color:#ff00ff; text-shadow:0 0 5px #00ffff;">
-  <i>“Code under neon lights. Dream in binary.”</i>
-</p>
+
 </div>
