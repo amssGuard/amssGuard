@@ -12,7 +12,7 @@
 <br><br>
 
 <h2 align="center" style="color:#00ffff; text-shadow:0 0 10px #ff00ff;">
-  ⚡ Hi, I’m <span style="color:#ff00ff;">@amssGuard</span>
+  ⚡ Hi, I’m <span style="color:#ff00ff;">@amssGuard (sumitra)</span>
 </h2>
 
 <p align="center" style="max-width:600px; margin:auto; font-size:16px; line-height:1.5; color:#00ffee;">
