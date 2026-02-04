@@ -18,7 +18,7 @@
 <p align="center" style="max-width:600px; margin:auto; font-size:16px; line-height:1.5; color:#00ffee;">
   👀 I’m interested in <strong>ADO</strong> and <strong>Data Structures</strong>.<br>
   🌱 I’m currently learning <strong>many things at once</strong>.<br>
-  💞️ I’m looking to collaborate on <i>fun open-source tech with a cyberpunk vibe</i>.
+  💞️ In here just for the<i> love </i> of the game.
 </p>
 
 <div align="center">
@@ -42,12 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amssGuard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amssGuard&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
-</div>
 
 ---
 
