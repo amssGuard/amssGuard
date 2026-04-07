@@ -40,13 +40,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
 </div>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/amssGuard/amssGuard/blob/main/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/amssGuard/amssGuard/blob/main/pacman.svg">
-  <img alt="pacman contribution graph" src="https://github.com/amssGuard/amssGuard/blob/main/pacman.svg">
-</picture>
 
-
-
-</div>
